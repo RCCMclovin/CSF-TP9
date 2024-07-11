@@ -12,8 +12,8 @@ Uma solução para esse problema é utilizar-se de técnologias IoT para a cria�
 
 Nesta demonstração, usaremos uma versão reduzida do nó de coleta, utilizando apenas dois sensores, temperatura e resíduos totais (TDS).
 
-<img src="./img/img1.jpg" alt="Gateway" width=300 height=600>
-<img src="./img/img2.jpg" alt="Sensor Node" width=300 height=600>
+<img src="./img/img1.jpg" alt="Gateway" width=300 height=600> <img src="./img/img2.jpg" alt="Sensor Node" width=300 height=600>
+
 
 ### Relatório
 
