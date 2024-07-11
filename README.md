@@ -6,6 +6,7 @@ Neste trabalho iremos analisar um sistema IoT pré-construido.
 
 ### Sistema de monitoramento remoto da qualidade da água
 
+A Colônia Antônio Aleixo é um bairro periférico da cidade de Manaus, com aproximadamente 19 mil habitantes (dados de 2017), que lutam pela emancipação do bairo da cidade de Manaus, em prol de uma qualidade melhor de vida devido aos impostos desproporcionais às condições financeiras da população. Um dos pontos em prol da emancipação é o fato da comunidade possuir um serviço de fornecimento de água independente, mantido pela própria comunidade. O problema, é que para manter esse serviço funcionando de forma legal, é necessário a medição de múltiplos parâmetros de qualidade d'água, como Oxigênio dissolvido, Coliformes termotolerantes, Potencial hidrogeniônico - pH, Demanda Bioquímica de Oxigênio - DBO5,20,Temperatura da água,Nitrogênio total, Fósforo total, Turbidez, Resíduo total ([Parâmetros do IqA](https://portalpnqa.ana.gov.br/indicadores-indice-aguas.aspx))
 Breve descrição do projeto na comunidade e imagens do protótipo.
 
 ![Placeholder Image](/img/img1.jpg)
