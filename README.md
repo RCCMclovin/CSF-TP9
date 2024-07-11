@@ -29,5 +29,5 @@ O relatório desta atividade deve conter:
     + Usem as fórmulas apresentadas em sala de aula.
 + Proponham como testar cada parte do sistema;
 + Discussão sobre o protótipo apresentado:
-    + Quais os próximos passos para implementação do sistema? O que pode ser melhorado? 
+    + Quais os próximos passos para implementação do sistema? O que pode ser melhorado?
 + Conclusões;
